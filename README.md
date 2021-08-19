@@ -7,6 +7,6 @@
 
 #### How to get a country plot
 
-Run country_plot.py 
-Write the wanted country as an input
-Look inside the output folder
+* Run country_plot.py 
+* Write the wanted country as an input
+* Look inside the output folder
